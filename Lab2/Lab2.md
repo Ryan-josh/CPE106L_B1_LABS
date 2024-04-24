@@ -6,6 +6,7 @@ Programming Exercise 1
 
 Programming Exercise 2
 - LR2_2.py
+- text.txt
 
 Programming Exercise 3
 - generator_modified.py
